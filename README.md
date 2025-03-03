@@ -1,4 +1,4 @@
-## Hi there , I'm the meatly. I'm a game developer, I'm a gamer and, I'm a puppet.👋
+## Hi there.👋
 
 <!--
 **quiiquem/quiiquem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
