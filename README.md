@@ -16,11 +16,11 @@
 ## 🛠️ Mis habilidades en programacion
 <hr/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,wordpress,java,androidstudio,mysql,mongodb,postgres,html,css,react,aws&theme=light&perline=4"/>
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,wordpress,java,androidstudio,mysql,mongodb,postgres,html,css,react,aws&theme=light&perline=6"/>
 </p>
 
 ## 🔮​🗺️ Mis proximos lenguajes e frameworks
 <hr/>
 <p align="left">Los proximos lenguajes de programación (y frameworks) que tengo pensado aprender una vez acabado mis estudios de DAM son los siguientes de abajo</p>
 <br>
-<img src="https://skillicons.dev/icons?i=godot,blender,haxepixel,js,lua&theme=light&perline=4"/>
+<img src="https://skillicons.dev/icons?i=godot,blender,haxeflixel,js,lua&theme=light&perline=4"/>
