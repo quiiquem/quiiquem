@@ -7,20 +7,11 @@
 
 ## 💻​👀​ Algunos de mis proyectos personales
 <!--Deberia poner otros repositorios y hacerlo un recolipatorio prob. a futuro-->
-<!--Android Studio-->
-<p align="left"><b>Proyectos realizados en Android Studio:</b></p>
+<p align="center"><a href="https://github.com/quiiquem/Mini-Proyecto-Pizzeria-Kotlin"> <img src="https://github.com/user-attachments/assets/3cb371cc-6361-48b0-8270-a0cb26aa6e5b" alt="proyectos_en_android" width="64" height="64"/></a>
+<a href="https://github.com/quiiquem/ProyectoDAM_Interfaz"> <img src="https://github.com/user-attachments/assets/a38d3354-1f1a-4903-b009-0466b1791173" width="64" height="64" alt="proyectos_en_escritorio"/></a>
+<a href="https://github.com/quiiquem/DWEC_2DAM"> <img src="https://github.com/user-attachments/assets/1a3578b5-c9e5-4b67-820d-6317dcbd647f" width="64" height="64" alt="proyectos_en_web"/></a></p>
 <br>
-<a href="https://github.com/quiiquem/Mini-Proyecto-Pizzeria-Kotlin"> <img src="https://github.com/user-attachments/assets/3cb371cc-6361-48b0-8270-a0cb26aa6e5b" alt="proyectos_en_android" width="64" height="64"/></a>
-<!--Escritorio-->
-<hr/>
-<p align="left"><b>Proyectos realizados en Visual Studio:</b></p>
-<a href="https://github.com/quiiquem/ProyectoDAM_Interfaz"> <img src="https://github.com/user-attachments/assets/a38d3354-1f1a-4903-b009-0466b1791173" width="64" height="64" alt="proyectos_en_escritorio"/> </a>
-                                                                                                                                                        
-<!--Websites-->
-<hr/>
-<p align="left"><b>Proyectos realizados de Desarrollo Web:</b></p>
-<a href="https://github.com/quiiquem/DWEC_2DAM"> <img src="https://github.com/user-attachments/assets/1a3578b5-c9e5-4b67-820d-6317dcbd647f" width="64" height="64" alt="proyectos_en_web"/></a>
-
+<p align="center"><b>Android | Escritorio | Desarrollo Web</b> </p>
 
 ## 🛠️ Mis habilidades en programacion
 <hr/>
