@@ -25,5 +25,5 @@
 ## 🛠️ Mis habilidades en programacion
 <hr/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=git,html,css,react&theme=light" />
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,wordpress,java,kotlin,mysql,mongodb,postgres,html,css,react,aws&theme=light"&perline=4/>
 </p>
