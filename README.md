@@ -7,13 +7,21 @@
 
 ## 💻​👀​ Algunos de mis proyectos personales
 <!--Deberia poner otros repositorios y hacerlo un recolipatorio prob. a futuro-->
-<p align="left"><b>Proyectos realizados en Android Studio:</b><a href="https://github.com/quiiquem/Mini-Proyecto-Pizzeria-Kotlin"> <img src="https://img.icons8.com/liquid-glass-color/1200/android-os.jpg" alt="proyectos_en_android" width="64" height="64"/> </a></p>
+<!--Android Studio-->
+<p align="left"><b>Proyectos realizados en Android Studio:</b></p>
+<br>
+<a href="https://github.com/quiiquem/Mini-Proyecto-Pizzeria-Kotlin"> <img src="https://github.com/user-attachments/assets/3cb371cc-6361-48b0-8270-a0cb26aa6e5b" alt="proyectos_en_android" width="64" height="64"/></a>
+<!--Escritorio-->
 <hr/>
-<p align="left"><b>Proyectos realizados en Visual Studio:</b><a href="https://github.com/quiiquem/ProyectoDAM_Interfaz"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="64" height="64" alt="proyectos_en_escritorio"/> </a></p>
+<p align="left"><b>Proyectos realizados en Visual Studio:</b></p>
+<a href="https://github.com/quiiquem/ProyectoDAM_Interfaz"> <img src="https://github.com/user-attachments/assets/a38d3354-1f1a-4903-b009-0466b1791173" width="64" height="64" alt="proyectos_en_escritorio"/> </a>
+                                                                                                                                                        
+<!--Websites-->
 <hr/>
-<p align="left"><b>Proyectos realizados de Desarrollo Web:</b><a href="https://github.com/quiiquem/DWEC_2DAM"> <img src="https://cdn-icons-png.flaticon.com/512/5344/5344030.png" width="64" height="64" alt="proyectos_en_web"/> </a> </p>
-<hr/> 
+<p align="left"><b>Proyectos realizados de Desarrollo Web:</b></p>
+<a href="https://github.com/quiiquem/DWEC_2DAM"> <img src="https://github.com/user-attachments/assets/1a3578b5-c9e5-4b67-820d-6317dcbd647f" width="64" height="64" alt="proyectos_en_web"/></a>
+
 
 ## 🛠️ Mis habilidades en programacion
-
+<hr/>
 <p align="center"></p>
