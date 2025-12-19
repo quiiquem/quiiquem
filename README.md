@@ -5,7 +5,7 @@
 <br>
 <p align="center"> <img src="https://github.com/user-attachments/assets/acdf2c93-b28b-40fb-b748-d36bf720814d" alt="gif_de_ironman" width="400"> </p>
 
-## 💻​👀​ Algunos de mis proyectos personales
+## 💻​👀​ Algunos de mis proyectos realizados
 <!--Deberia poner otros repositorios y hacerlo un recolipatorio prob. a futuro-->
 <p align="center"><a href="https://github.com/quiiquem/Mini-Proyecto-Pizzeria-Kotlin"> <img src="https://github.com/user-attachments/assets/3cb371cc-6361-48b0-8270-a0cb26aa6e5b" alt="proyectos_en_android" width="64" height="64"/></a>
 <a href="https://github.com/quiiquem/ProyectoDAM_Interfaz"> <img src="https://github.com/user-attachments/assets/a38d3354-1f1a-4903-b009-0466b1791173" width="64" height="64" alt="proyectos_en_escritorio"/></a>
@@ -16,5 +16,11 @@
 ## 🛠️ Mis habilidades en programacion
 <hr/>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,wordpress,java,kotlin,mysql,mongodb,postgres,html,css,react,aws&theme=light"&perline=4/>
+    <img src="https://skillicons.dev/icons?i=cs,visualstudio,vscode,wordpress,java,androidstudio,mysql,mongodb,postgres,html,css,react,aws&theme=light&perline=4"/>
 </p>
+
+## 🔮​🗺️ Mis proximos lenguajes e frameworks
+<hr/>
+<p align="left">Los proximos lenguajes de programación (y frameworks) que tengo pensado aprender una vez acabado mis estudios de DAM son los siguientes de abajo</p>
+<br>
+<img src="https://skillicons.dev/icons?i=godot,blender,haxepixel,js,lua&theme=light&perline=4"/>
