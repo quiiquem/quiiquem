@@ -3,9 +3,7 @@
 <h2 align="center"> Actualmente estoy estudiando 2º DAM. Me gusta programar, hacer mis propios minis proyectos, tambien me gusta investigar sobre ello pues me apasiona bastante y realmente me agrada el poder crear aplicaciones enteras con mis propias manos y cada vez con más expierencia y fluidez.</h2>
 <h3>También estoy apasionado por el mundo de la tecnología en si, sobretodo con la reciente reevolución que esta siendo la Inteligencia Artificial ahora mismo, ya que es una herramienta que nos puede ayudar bastante a la hora de ser mucho más productivos, pudiendo realizar mucho más trabajo de forma más rápida (y sencilla)</h3>
 <br>
-<p align="center">
-![jarvis-iron-man](https://github.com/user-attachments/assets/acdf2c93-b28b-40fb-b748-d36bf720814d)
-</p>
+<p align="center"> <img src="https://github.com/user-attachments/assets/acdf2c93-b28b-40fb-b748-d36bf720814d" alt="gif_de_ironman" width="400"> </p>
 
 ## 💻​👀​ Algunos de mis proyectos personales
 <!--Deberia poner otros repositorios y hacerlo un recolipatorio prob. a futuro-->
